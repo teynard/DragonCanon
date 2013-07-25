@@ -1,0 +1,33 @@
+html 
+{
+	overflow: hidden;
+	size: 100% 100%;
+}
+body
+{
+	margin : 0;
+}
+
+canvas
+{
+	vertical-align: middle;
+}
+
+#word
+{
+	margin-left: 150px;
+	width: 300px;
+}
+
+#write-btn
+{
+
+}
+
+#interface
+{
+	size: 100% 100%;
+	background-color: black;
+	padding-top: 5px;
+	height: 30px;
+}
